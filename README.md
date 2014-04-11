@@ -1,3 +1,5 @@
+this is on "master" branch
+
 <<<<<<< HEAD
 This readme file for this project2
 =======
