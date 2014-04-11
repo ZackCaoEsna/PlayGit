@@ -1,5 +1,6 @@
+
+branchiss53 second change, remove wording "master commit 3"
 newly branch to iss53
-master commit-3
 this is on "master" branch
 
 <<<<<<< HEAD
