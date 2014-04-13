@@ -1,6 +1,8 @@
+edit online 1
+
 i'm on testing1-1 branch
 
-
+<<<<<<< HEAD
 merged master<==iss53
 <<<<<<< HEAD
 hotfix1 on "hotfix" branch
@@ -17,6 +19,6 @@ This readme file for this project2
 =======
 PlayGit
 =======
+=======
+>>>>>>> origin/testing1-1
 
-playing with git
->>>>>>> 91efb745f80908fe157a02edf971f5d77390a753
